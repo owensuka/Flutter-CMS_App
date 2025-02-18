@@ -19,8 +19,11 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 📸 App Screenshots  
 
+![Login Screen](assets/screenshots/CMS_App.png)  
 ![Home Screen](assets/screenshots/Splash_Screen.png)  
 ![Login Screen](assets/screenshots/Login_Page.png)  
+![Login Screen](assets/screenshots/Home_Page.png)  
+![Login Screen](assets/screenshots/Menu_Drawer.png)  
 
 ---
 
