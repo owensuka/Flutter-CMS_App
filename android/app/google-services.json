@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47023374767",
+    "project_id": "cmsapp-fbb52",
+    "storage_bucket": "cmsapp-fbb52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47023374767:android:0485a7b01f4e8d9249ef5a",
+        "android_client_info": {
+          "package_name": "com.example.cms_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv21hVdyXveuwf-KEw-gPgXHFcbnn9wZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
