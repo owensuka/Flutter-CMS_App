@@ -40,7 +40,7 @@ samples, guidance on mobile development, and a full API reference.
 ## 🛠️ Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/YOUR-GITHUB-USERNAME/Flutter-CMS_App.git
+   git clone https://github.com/owensuka/Flutter-CMS_App.git
 
 2. Setup Firebase CLI and Create project to firebase and link with this app.
 
