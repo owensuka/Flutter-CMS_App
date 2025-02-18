@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+## App Screenshots
+![Splash Screen](assets/screenshots/Splash Screen.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
