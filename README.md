@@ -19,11 +19,13 @@ samples, guidance on mobile development, and a full API reference.
 
 ## 📸 App Screenshots  
 
-<img src="assets/screenshots/CMS_APP.png" alt="Home Screen" width="300"/>
-<img src="assets/screenshots/Splash_Screen.png" alt="Home Screen" width="300"/>
-<img src="assets/screenshots/Login_Page.png" alt="Home Screen" width="300"/>
-<img src="assets/screenshots/Home_Screen.png" alt="Home Screen" width="300"/>
-<img src="assets/screenshots/Menu_Drawer" alt="Home Screen" width="300"/>
+<p align = "center">
+  <img src="assets/screenshots/CMS_APP.png" alt="App Screen" width="300"/>
+  <img src="assets/screenshots/Splash_Screen.png" alt="Splash Screen" width="300"/>
+  <img src="assets/screenshots/Login_Page.png" alt="Login Page" width="300"/>
+  <img src="assets/screenshots/Home_Screen.png" alt="Home Screen" width="300"/>
+  <img src="assets/screenshots/Menu_Drawer" alt="Menu Drawer" width="300"/>
+</p>
   
 
 ---
